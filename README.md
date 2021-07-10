@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 🌱 I’m currently learning A sprint Software Engineering course with Holberton-ALX
 
 <!--
 **mitakeey/mitakeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
