@@ -1,6 +1,6 @@
 ### Hi there 👋
  🌱 I’m currently learning A sprint Software Engineering course with Holberton-ALX
- #⚡ Fun fact: I can cook you the best meal :shushing_face:
+ <br>⚡ Fun fact: I can cook you the best meal :shushing_face:
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitakeey)](https://github.com/anuraghazra/github-readme-stats)
 
