@@ -1,6 +1,20 @@
-### Hi there 👋
- 🌱 I’m currently learning A sprint Software Engineering course with Holberton-ALX
- <br>⚡ Fun fact: I can cook you the best meal :shushing_face:
+### Hi there 👋, Its Mitakeey here
+#### All about Development
+![All about Development](https://pbs.twimg.com/profile_banners/874250934825648129/1518380128/600x200)
+
+🌱 I’m currently learning A sprint Software Engineering course with Holberton-ALX
+⚡ Fun fact: I can cook you the best meal 🤫
+
+
+
+Skills: C/...with others to come
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitakeey)](https://github.com/anuraghazra/github-readme-stats)
 
