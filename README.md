@@ -2,8 +2,6 @@
 #### All about Development
 ![All about Development](https://pbs.twimg.com/profile_banners/874250934825648129/1518380128/600x200)
 
-🌱 I’m currently learning A sprint Software Engineering course with Holberton-ALX
-⚡ Fun fact: I can cook you the best meal 🤫
 
 
 
@@ -16,8 +14,6 @@ Skills: C/...with others to come
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mitakeey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samora-mitakeey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_mitakeey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/i_mitakeey)  
-
-
 
 
 
