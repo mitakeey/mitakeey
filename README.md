@@ -9,7 +9,14 @@
 
 Skills: C/...with others to come
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my own skills 
+- 🌱 I’m currently learning Software Engineering at ALX-Holberton 
+- 💬 Ask me about my life journey, my aspirations 
+- ⚡ Fun fact:  I can cook you the best meal 🤫 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mitakeey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samora-mitakeey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_mitakeey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/i_mitakeey)  
+
 
 
 
