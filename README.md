@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there it's Mitakeey</h1>
 <h3 align="center">All about Development</h3>
 
-<p align="left"> <a href="https://twitter.com/i_mitakeey" target="blank"><img src="https://img.shields.io/twitter/follow/i_mitakeey?logo=twitter&style=for-the-badge" alt="i_mitakeey" /></a> </p>
+<p align="center"> <a href="https://twitter.com/i_mitakeey" target="blank"><img src="https://img.shields.io/twitter/follow/i_mitakeey?logo=twitter&style=for-the-badge" alt="i_mitakeey" /></a> </p>
 
 - 🌱 I’m currently learning **Software Engineering at Holberton**
 
