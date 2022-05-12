@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 there it's Mitakeey</h1>
 <h3 align="center">All about Development</h3>
 
-<p align="center"> <a href="https://twitter.com/i_mitakeey" target="blank"><img src="https://img.shields.io/twitter/follow/i_mitakeey?logo=twitter&style=for-the-badge" alt="i_mitakeey" /></a> </p>
+<p align="center"> <a href="https://twitter.com/mitakeey" target="blank"><img src="https://img.shields.io/twitter/follow/mitakeey?logo=twitter&style=for-the-badge" alt="mitakeey" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering at Holberton**
+- 🌱 I’m currently learning **Software Engineering at African Leadership University**
 
 - 💬 Ask me about **my life journey and aspirations..i got you**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_mitakeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_mitakeey" height="30" width="40" /></a>
+<a href="https://twitter.com/mitakeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitakeey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15790601/mitakeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15790601/mitakeey" height="30" width="40" /></a>
 <a href="https://instagram.com/i_mitakeey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_mitakeey" height="30" width="40" /></a>
 </p>
